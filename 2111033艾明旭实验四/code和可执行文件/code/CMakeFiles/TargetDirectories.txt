@@ -1,0 +1,3 @@
+/home/starx/桌面/work4/code/CMakeFiles/Scaner.dir
+/home/starx/桌面/work4/code/CMakeFiles/edit_cache.dir
+/home/starx/桌面/work4/code/CMakeFiles/rebuild_cache.dir
